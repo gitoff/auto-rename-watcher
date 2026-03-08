@@ -1,0 +1,22 @@
+# Ignore PowerShell history
+*.pshistory
+
+# Ignore log files
+*.log
+rename_log.txt
+
+# Ignore temp files
+*.tmp
+*.temp
+
+# Ignore compiled PowerShell modules
+*.psd1
+*.psm1
+
+# Ignore VS Code workspace junk
+.vscode/
+*.code-workspace
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
